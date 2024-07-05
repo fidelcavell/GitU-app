@@ -96,7 +96,8 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_marginTop="8dp"
-            android:minHeight="400dp"
+            android:minHeight="480dp"
+            android:fitsSystemWindows="true"
             android:nestedScrollingEnabled="false"
             app:layout_constraintTop_toBottomOf="@id/tab_indicator" />
 
